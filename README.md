@@ -14,4 +14,4 @@ Name: Sai Deva Pranay Kumar Rao, Guddity ID: 700745063
 
 Code File - ICP_2_Spring24.ipynb Document- ICP_2_Spring24.DOCX
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1c6EC52FvOiMY8qGwLKCODmgTNwKwZc18/view?usp=sharing
